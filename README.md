@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bellamamta
+- 👋 Hi, I’m bella
 - 🌱 I’m currently learning machine learning
 - 📫 Reach me at https://www.linkedin.com/in/bellamamta/
 <!---
